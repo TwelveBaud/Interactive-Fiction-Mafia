@@ -1,0 +1,4 @@
+*.inform/Build/**
+*.inform/Index/**
+*.materials/Release/**
+*.materials/Inform Map.eps

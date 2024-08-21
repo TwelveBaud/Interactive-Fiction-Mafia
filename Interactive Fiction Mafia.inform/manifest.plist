@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Graphics</key>
+        <dict>
+            <key>3</key>
+            <string>Figures\massive-lock.png</string>
+            <key>4</key>
+            <string>Figures\unnamed-glyphs.PNG</string>
+            <key>5</key>
+            <string>Figures\named-glyphs.PNG</string>
+            <key>6</key>
+            <string>Figures\pedestal-runes.png</string>
+            <key>7</key>
+            <string>Figures\pedestal-runes-reflected.png</string>
+            <key>8</key>
+            <string>Figures\pedestal-runes-inverted.png</string>
+            <key>9</key>
+            <string>Figures\pedestal-runes-inverted-reflected.png</string>
+            <key>10</key>
+            <string>Figures\medallions.png</string>
+        </dict>
+    </dict>
+</plist>
