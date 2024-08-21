@@ -1,5 +1,7 @@
 # The Perplexing Puzzles of UNDOT
+
 **An Interactive Fiction Backdrop for a Mafia Game**
+
 **Created by CirclMastr, Ported to Inform by TwelveBaud**
 
 
@@ -24,8 +26,10 @@ If you want to expand the story, fix any mistakes or inconsistencies(probably my
 I'll leave you with the description of the very last item in the game:
 
 > Congratulations! You have worked together to achieve the first victory of - hopefully - many, paving the way for a new rise in Interactive Fiction with the addition of multiplayer! Your help has been instrumental in making this game a real product, and I couldn't have done it without you! I'd also like to take this opportunity to thank:
+>
 > * Steve 'Jaspor' Orr and Bill Putrino, for writing the puzzles adapted here.
 > * Bill Putrino, Christian Petermann, AeronDrake, and QalarValar for maps and images.
 > * TwelveBaud, for writing and coding.
 > * AFancyQuestionMark, Hal Incandenza, kaschei, Maerlyn, My Second Re-Reg, Opoponax, Tea Party Crasher, Your Personal Muse, and yuming, for being the first beta testers of this game.
+>
 > Now go forth, and engage in jolly co-operation!
